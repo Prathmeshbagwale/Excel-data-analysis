@@ -74,23 +74,6 @@ A professional **Excel data analysis and dashboard project** using the Bike Buye
 
 ---
 
-## 🚀 How to Open This File
-
-**Option 1 — Google Sheets (Free, no install):**
-1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers)
-2. Upload to [Google Drive](https://drive.google.com) → opens automatically in Google Sheets
-
-**Option 2 — Microsoft Excel:**
-```bash
-git clone https://github.com/prathmesh/excel-data-analysis.git
-```
-Then open `Excel_Project_Dataset_1.xlsx` in Excel
-
-**Option 3 — LibreOffice Calc (Free):**
-Download at [libreoffice.org](https://www.libreoffice.org) → open the `.xlsx` file directly
-
----
-
 ## 📁 Repository Structure
 
 ```
